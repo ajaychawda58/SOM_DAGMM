@@ -16,6 +16,8 @@ Code for Self Organizing Map assissted Deep Autoencoding gaussian Mixture Model 
 |	eval.py
 |	utils.py
 
+** Please download the datasets and follow the above directory structure**
+
 ## Data
 
 Credit Card - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
