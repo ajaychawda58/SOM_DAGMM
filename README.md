@@ -1,31 +1,11 @@
 # SOM_DAGMM
 Code for Self Organizing Map assissted Deep Autoencoding gaussian Mixture Model for intrusion detection
 
-## Directory Structure
-
-    .
-    ├── data  
-    	├── CreditCardFraud                      
-        ├── NSL-KDD              
-	└── arrhythmia.csv
-    ├── som_dagmm  
-        ├── compression_network.py
-	├── estimation_network.py
-	├── gmm.py
-	└── model.py
-    ├── train.py                  
-    ├── eval.py                       
-    ├── utils.py                    
-    ├── SOM.py                   
-    └── Readme.MD                    
+            
         
-        
-	    
-	    
-** Please download the datasets and follow the above directory structure**
-
 ## Data
 
+** Please download the datasets and save in directory named `data`. **
 
 Credit Card - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 Arrhythmia - https://archive.ics.uci.edu/ml/datasets/arrhythmia
