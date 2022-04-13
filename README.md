@@ -5,8 +5,7 @@ Code for Self Organizing Map assissted Deep Autoencoding gaussian Mixture Model 
 
     .
     ├── data  
-    	├── CreditCardFraud                   
-            ├── creditcard.csv          
+    	├── CreditCardFraud                      
         ├── NSL-KDD              
 	└── arrhythmia.csv
     ├── som_dagmm  
