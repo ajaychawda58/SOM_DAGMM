@@ -3,14 +3,14 @@ Code for Self Organizing Map assissted Deep Autoencoding gaussian Mixture Model 
 
 ## Directory Structure
 
-.
-    ├── data  
+    .
+    └── data  
     	└── CreditCardFraud                   
             └── creditcard.csv          
         └── NSL-KDD              
             └── *All files
 	└── arrhythmia.csv
-    ├── som_dagmm  
+    └── som_dagmm  
         └── compression_network.py
 	└── estimation_network.py
 	└── gmm.py
