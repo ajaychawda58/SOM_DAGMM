@@ -7,8 +7,8 @@ Code for Self Organizing Map assissted Deep Autoencoding gaussian Mixture Model 
 
 ** Please download the datasets and save in directory named `data`. **
 
-Credit Card - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-Arrhythmia - https://archive.ics.uci.edu/ml/datasets/arrhythmia
+Credit Card - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud .\
+Arrhythmia - https://archive.ics.uci.edu/ml/datasets/arrhythmia. \
 KDD - https://www.unb.ca/cic/datasets/nsl.html
 
 ## Training
