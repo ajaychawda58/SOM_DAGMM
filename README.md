@@ -6,15 +6,15 @@ Code for Self Organizing Map assissted Deep Autoencoding gaussian Mixture Model 
     .
     ├── data  
     	├── CreditCardFraud                   
-            └── creditcard.csv          
+            ├── creditcard.csv          
         ├── NSL-KDD              
             └── *All files
 	└── arrhythmia.csv
     ├── som_dagmm  
         ├── compression_network.py
-	├── estimation_network.py
-	├── gmm.py
-	└── model.py
+		├── estimation_network.py
+		├── gmm.py
+		└── model.py
     ├── train.py                  
     ├── eval.py                       
     ├── utils.py                    
